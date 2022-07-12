@@ -6,8 +6,11 @@
     <classes>
       <class name="com.MyTests.LoginTest">
         <methods>
+          <include name="verifyLoginPageHeaderTest"/>
           <include name="doLogin" invocation-numbers="0"/>
+          <include name="endTest"/>
           <include name="setUpTest"/>
+          <include name="verifyLoginPageTitleTest"/>
         </methods>
       </class> <!-- com.MyTests.LoginTest -->
     </classes>
