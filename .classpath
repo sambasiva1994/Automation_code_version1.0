@@ -83,5 +83,13 @@
 	<classpathentry kind="lib" path="C:/Users/sambasivarao/Desktop/Selenium/Drivers/ExcelJars/poi-bin-5.2.2/auxiliary/xml-apis-ext-1.3.04.jar"/>
 	<classpathentry kind="lib" path="C:/Users/sambasivarao/Desktop/Selenium/Drivers/ExcelJars/poi-bin-5.2.2/auxiliary/xmlgraphics-commons-2.6.jar"/>
 	<classpathentry kind="lib" path="C:/Users/sambasivarao/Desktop/Selenium/Drivers/ExcelJars/poi-bin-5.2.2/auxiliary/xmlsec-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/sambasivarao/Desktop/Selenium/Reports/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sambasivarao/Desktop/Selenium/Reports/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sambasivarao/Desktop/Selenium/Reports/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sambasivarao/Desktop/Selenium/Reports/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sambasivarao/Desktop/Selenium/Reports/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sambasivarao/Desktop/Selenium/Reports/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sambasivarao/Desktop/Selenium/Reports/sqlite-jdbc-3.8.11.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

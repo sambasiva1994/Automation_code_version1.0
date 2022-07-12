@@ -11,11 +11,11 @@
   </test> <!--End for First Test -->
   
   <!-- Start Second Test -->
-  <test  name="my hub spot test firefox" parallel="methods" thread-count="5">
+  <!-- <test  name="my hub spot test firefox" parallel="methods" thread-count="5">
   <parameter name="browser" value="firefox"/>
     <classes>
       <class name="com.MyTests.LoginTest"/>
     </classes> 
-  </test> <!--End for Second Test -->
+  </test> -->  <!--End for Second Test -->
   
 </suite> <!-- Suite -->
